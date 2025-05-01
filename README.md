@@ -1,6 +1,6 @@
 # 🧹 Cleaning Service Management System
 
-A full-stack CRUD web application for Cleaning Service Management System with admin panel and user authentication.
+A Full-Stack CRUD Web Application for Cleaning Service Management System with Admin Panel and User Authentication.
 ---
 
 ## 🚀 Features
@@ -8,7 +8,7 @@ A full-stack CRUD web application for Cleaning Service Management System with ad
 ### 👤 User Functionality
 - Register and login with secure password hashing
 - Book a cleaning service
-- View, edit, or cancel your own bookings
+- View, edit or cancel your own bookings
 - Select service type from a dropdown
 
 ### 🛠 Admin Ready (Backend)
@@ -23,15 +23,15 @@ A full-stack CRUD web application for Cleaning Service Management System with ad
 - **Backend**: Node.js, Express
 - **Database**: MongoDB
 - **Authentication**: JWT, bcrypt
-- **Deployment**: Vercel (frontend) / Render (backend) 
+- **Deployment**: Vercel  
 
 ---
 
 ## 📦 Installation Guide
 
-### 1 Clone the Repo
+### 1 Clone the Repository 
 ```bash
-git clone https://github.com/YOUR_USERNAME/cleaning-service-app.git
+git clone https://github.com/Darshana75/cleaning-service-app.git 
 cd cleaning-service-app
 ```
 
@@ -74,12 +74,15 @@ npm start
 
 ---
 
-## 📷 Screenshots
+## 📷 UI Design
 
-> (Add screenshots here)
+>
 ![Login Page](<Login Page.png>)
+Admin Login 
+User Name - admin
+Password - 5764 
 ![Admin Panel](<Admin Panel.png>)
 ![User Panel](<User Panel.png>)
 ---
 
-Made 💻 by Darshana Prabath 
+💻 Made by Darshana Prabath 
