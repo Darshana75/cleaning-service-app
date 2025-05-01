@@ -74,13 +74,24 @@ npm start
 
 ---
 
+## 🔐 Login Details
+
+## ✅ Admin Login
+
+Username: admin
+Password: 5764
+
+## ✅ User Login
+
+Username: Darshana
+Password: admin
+
+---
+
 ## 📷 UI Design
 
 >
 ![Login Page](<Login Page.png>)
-Admin Login 
-User Name - admin
-Password - 5764 
 ![Admin Panel](<Admin Panel.png>)
 ![User Panel](<User Panel.png>)
 ---
