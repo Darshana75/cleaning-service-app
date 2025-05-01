@@ -92,7 +92,7 @@ Password: admin
 
 ---
 
-## 📷 UI Design
+## 📷 UI Designs
 
 >
 ![Login Page](<Login Page.png>) 
