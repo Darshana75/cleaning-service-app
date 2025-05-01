@@ -78,20 +78,24 @@ npm start
 
 ## ✅ Admin Login
 
+```bash
 Username: admin
 Password: 5764
+```
 
 ## ✅ User Login
 
+```bash
 Username: Darshana
 Password: admin
+```
 
 ---
 
 ## 📷 UI Design
 
 >
-![Login Page](<Login Page.png>)
+![Login Page](<Login Page.png>) 
 ![Admin Panel](<Admin Panel.png>)
 ![User Panel](<User Panel.png>)
 ---
